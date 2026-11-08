@@ -5,6 +5,7 @@
 > **Portfolio showcase.** This repository documents the design and features of my Final Year Project.
 > The source code is kept private; a live walkthrough or code review is available on request.
 
+🌐 **Live:** [carpoolhub.prsdntworldwide.com](https://carpoolhub.prsdntworldwide.com) (installable PWA, best on a phone)  
 **Final Year Project · Bachelor of Computer Science (Software Engineering), UMPSA**  
 **Thesis title:** *CarpoolHub: An AI-Assisted Ride-Sharing System with Custom Route Preference*  
 **Role:** Sole developer (analysis, design, development and testing) · **Period:** March 2026 – present
